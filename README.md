@@ -2,9 +2,9 @@
 
 ## <h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=I'm+a+padawan+web+developer)](https://git.io/typing-svg)</h2>
 
-# 💻 Laura Tufo - Passionate Front-End Developer  
+# 💻 Laura Tufo - Passionate Web Developer  
 
-Hi! I'm Laura, a front-end developer specialized in creating modern, high-performance, and SEO-friendly websites. With a strong focus on **web performance**, **SEO**, and seamless **user experiences**, I build robust and visually appealing solutions for the web.
+Hi! I'm Laura, a web developer specialized in creating modern, high-performance, and SEO-friendly websites. With a strong focus on **web performance**, **SEO**, and seamless **user experiences**, I build robust and visually appealing solutions for the web.
 
 ---
 
@@ -18,8 +18,8 @@ Hi! I'm Laura, a front-end developer specialized in creating modern, high-perfor
 ## 🚀 Technical Skills  
 
 ### **Core Technologies**  
-- **Frameworks and Libraries:** React, Next.js, Redux  
-- **Languages:** HTML5, CSS3/SCSS, JavaScript (ES6+), C
+- **Frameworks and Libraries:** React, Next.js, Redux, Astro 
+- **Languages:** HTML5, CSS3/SCSS, JavaScript (ES6+), Typescript
 
 ### **Tools and Other Skills**  
 - **Versioning and Collaboration:** Git, GitHub  
